@@ -18,7 +18,7 @@ The common CR circuit is a Wheatstone bridge with feedback on the OP. When curre
 ![schem](schem.png)
 
 As the thermal conductivity of vacuum is way higher than thermal conductivity of air, resistor (open bulb filament) is cooled less and maintaining a constant resistance requires less voltage.
-To compensate the ambient temperature change, a sealed bulb is connected in series to the opened. It should be placed as close as possible to the sealed bulb. The voltage from the bridge passes through the buffer (it's necessary due to the limitations of the STM's ADC) is measured by the STM32 ADC and converted into pressure.
+To compensate the ambient temperature change, a sealed bulb is connected in series to the opened. It should be placed as close as possible to the sealed bulb. The STM32 ADC measures the voltage from the bridge that passes through the buffer (it's necessary due to the limitations of the STM's ADC) and converts it into pressure.
 
 STM32F103CBT6 with 128 kB of flash is used as an MCU. It's also worth noting that no significant optimizations were made to reduce the code size, but the firmware still fits in the any 64 kB chip. However, due to the absence of the EEPROM, its emulation is realised using the last 127th page of the flash memory. This is an important point, because in reality even 64 kB chip has 128 kB of memory, but its operability is not declared or guaranteed by ST, so, when using smaller chips its necessary to correct the addressing.
 
