@@ -3,7 +3,7 @@
 >Please bear in mind that this is **NOT** a finished thing, and I even guarantee that it will **NOT** work if you reproduce it
 ## What is this
 
-This is an indirect vacuum gauge based on the thermal conductivity measuring
+This is an indirect vacuum gauge based on the thermal conductivity measuring.
 Supposed to be small, cheap and easy to reproduce by using small incandescent bulbs as the pressure sensor
 
 ## How it (doesn't) works
