@@ -903,7 +903,7 @@ FontDef_t Dot14 = {  //basis33 11pts regular
 	dot14
 };
 
-FontDef_t Dot18 = { //basis33 idk size
+FontDef_t Dot18 = { //camingocode idk size
 	2,
 	11,
 	19,
