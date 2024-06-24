@@ -40,7 +40,7 @@ Bulbs are glued to the custom lathe-made KF16 flange from the AISI 316 steel (de
  - The lack of EM shielding causes the MCU malfunctioning near the vacuum pump when the frequency converter is used to drive the motor
  - The thickness of the metal base of the flange was insufficient so the ends of the PCB stands stick out
 
-[![]](https://github.com/irfcx/micropirani/blob/91e39446802804f94227c7d9049f27786a010544/demo.mp4)
+https://github.com/irfcx/micropirani/assets/52609749/1622802e-4848-4f7c-a10b-698a371d4f89
 
 ## File location
 
