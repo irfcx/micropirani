@@ -21,6 +21,8 @@ STM32F103CBT6 with 128 kB of flash is used as an MCU. It's also worth noting tha
 
 A typical calibration curve looks like an S-curve turned on the side. However, it was not possible to find coefficients and/or digitize it with some other function, so i used the usual table and linear interpolation between points
 
+![https://www.heimannsensor.com/vacuum-sensing](curve.png)
+
 ## Now about the mechanical part
 
 Bulbs are glued to the custom lathe-made KF16 flange from the AISI 316 steel (despite the fact it's still a bottleneck for easy reproducing, you can replace it with cheap KF cap with the hole or whatever you want) using JB weld epoxy, which with that small expose area may be considered suitable for high vacuum
