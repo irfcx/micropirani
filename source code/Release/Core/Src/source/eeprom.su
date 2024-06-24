@@ -1,0 +1,12 @@
+../Core/Src/source/eeprom.c:33:14:EEPROM_WriteData	16	static
+../Core/Src/source/eeprom.c:272:10:FLASH_Read	0	static
+../Core/Src/source/eeprom.c:280:11:EEPROM_ReadPageState	0	static
+../Core/Src/source/eeprom.c:290:14:EEPROM_SetPageState	16	static
+../Core/Src/source/eeprom.c:310:14:EEPROM_ClearPage	40	static
+../Core/Src/source/eeprom.c:342:14:EEPROM_Format	8	static
+../Core/Src/source/eeprom.c:362:14:EEPROM_GetActivePageIdx	0	static
+../Core/Src/source/eeprom.c:54:14:EEPROM_Read	24	static
+../Core/Src/source/eeprom.c:98:14:EEPROM_PageTransfer	32	static
+../Core/Src/source/eeprom.c:233:14:EEPROM_CopyPageData	32	static
+../Core/Src/source/eeprom.c:170:14:EEPROM_Write	24	static
+../Core/Src/source/eeprom.c:394:14:EEPROM_Init	16	static

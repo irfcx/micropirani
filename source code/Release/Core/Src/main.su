@@ -1,0 +1,12 @@
+../Core/Src/source/micropirani.h:42:7:linterp	24	static
+../Core/Src/source/micropirani.h:48:7:convert_p	32	static
+../Core/Src/source/micropirani.h:75:6:show_pressure	160	static
+../Core/Src/source/micropirani.h:196:6:set_out_on	0	static
+../Core/Src/source/micropirani.h:197:6:set_out_off	0	static
+../Core/Src/source/micropirani.h:199:6:my_main	240	static
+../Core/Src/source/micropirani.h:570:6:HAL_ADC_ConvCpltCallback	8	static
+../Core/Src/source/micropirani.h:578:6:HAL_GPIO_EXTI_Callback	8	static
+../Core/Src/source/micropirani.h:596:6:HAL_TIM_PeriodElapsedCallback	8	static
+../Core/Src/main.c:128:6:SystemClock_Config	96	static,ignoring_inline_asm
+../Core/Src/main.c:79:5:main	56	static,ignoring_inline_asm
+../Core/Src/main.c:470:6:Error_Handler	0	static,ignoring_inline_asm
